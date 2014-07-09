@@ -1,7 +1,7 @@
 {
   "name"         : "node-web-scrape",
   "version"      : "0.0.1",
-  "description"  : "Scrape le web.",
+  "description"  : "Scrape key company statistics from Yahoo!Finance",
   "main"         : "server.js",
   "author"       : "Scotch",
   "dependencies" : {
