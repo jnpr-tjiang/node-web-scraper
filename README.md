@@ -1,4 +1,4 @@
 node-web-scraper
 ================
 
-Simple web scraper to get a movie name, release year and community rating from IMDB.
+Simple web scraper to scrape company key stats data from Yahoo!Finance
